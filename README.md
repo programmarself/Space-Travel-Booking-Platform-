@@ -1,4 +1,4 @@
-# Space Travel Booking Platform
+ # Space Travel Booking Platform
 <img width="948" alt="Front Page" src="https://github.com/user-attachments/assets/d297ab4a-eee7-4801-b49e-615248ff2a4b" />
 
 # **Dubai to the Stars 🚀**  
@@ -134,8 +134,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 ## **🙏 Acknowledgments**  
 - Inspired by the **future of space travel** and Dubai's vision for innovation.  
 - Built with ❤️ by **Irfan Ullah Khan**.  
-
----
+- **LinkedIn Post**: [LinkedIn Post](https://www.linkedin.com/posts/iukhan_webdevelopment-spacetech-innovation-activity-7309136015451996161-S_v-?utm_source=share&utm_medium=member_desktop&rcm=ACoAADTPIHoB3wCH2hC3BmcK7fevm_uKgMigGkE)---
 
 🚀 **Explore the Cosmos with Dubai to the Stars!** 🚀  
 
